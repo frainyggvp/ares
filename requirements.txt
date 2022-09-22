@@ -1,0 +1,5 @@
+colorama==0.4.5
+pypiwin32==223
+requests==2.28.1
+sockets==1.0.0
+wget==3.2
